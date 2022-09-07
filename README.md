@@ -1,7 +1,11 @@
 ### Hi there 👋
-
+![Banner](https://github.com/smruti4u/smruti4u/blob/main/banner2.gif)
 <!--
 **smruti4u/smruti4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+[![Smruti's Github Stats](https://github-readme-stats.vercel.app/api?username=smruti4u)](https://github.com/smruti4u/github-readme-stats)
 
 Here are some ideas to get you started:
 
