@@ -1,5 +1,6 @@
-# Hey there👋, Welcome to my Github Profile
+<center># Hey there👋, Welcome to my Github Profile
 <img src="https://github.com/smruti4u/smruti4u/blob/main/banner2.gif"/>
+ </center>
 
 
 
